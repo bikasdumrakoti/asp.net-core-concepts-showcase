@@ -1,0 +1,15 @@
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\bin\Debug\net8.0\InMemoryCaching.RepositoryContracts.deps.json
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\bin\Debug\net8.0\InMemoryCaching.RepositoryContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\bin\Debug\net8.0\InMemoryCaching.RepositoryContracts.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\bin\Debug\net8.0\InMemoryCaching.Models.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\bin\Debug\net8.0\InMemoryCaching.Models.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.csproj.AssemblyReference.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.AssemblyInfoInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.AssemblyInfo.cs
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemory.64C265C1.Up2Date
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\refint\InMemoryCaching.RepositoryContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\ref\InMemoryCaching.RepositoryContracts.dll

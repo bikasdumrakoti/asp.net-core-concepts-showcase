@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InMemoryCaching.RepositoryContracts\InMemoryCaching.RepositoryContracts.csproj" />
+    <ProjectReference Include="..\InMemoryCaching.ServiceContracts\InMemoryCaching.ServiceContracts.csproj" />
+  </ItemGroup>
+
+</Project>

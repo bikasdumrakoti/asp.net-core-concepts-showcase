@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "InMemoryCaching.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/InMemoryCaching.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InMemoryCaching.Models.dll": {}
+        }
+      },
+      "InMemoryCaching.RepositoryContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "InMemoryCaching.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InMemoryCaching.RepositoryContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InMemoryCaching.RepositoryContracts.dll": {}
+        }
+      },
+      "InMemoryCaching.ServiceContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "InMemoryCaching.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InMemoryCaching.ServiceContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InMemoryCaching.ServiceContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InMemoryCaching.Models/1.0.0": {
+      "type": "project",
+      "path": "../InMemoryCaching.Models/InMemoryCaching.Models.csproj",
+      "msbuildProject": "../InMemoryCaching.Models/InMemoryCaching.Models.csproj"
+    },
+    "InMemoryCaching.RepositoryContracts/1.0.0": {
+      "type": "project",
+      "path": "../InMemoryCaching.RepositoryContracts/InMemoryCaching.RepositoryContracts.csproj",
+      "msbuildProject": "../InMemoryCaching.RepositoryContracts/InMemoryCaching.RepositoryContracts.csproj"
+    },
+    "InMemoryCaching.ServiceContracts/1.0.0": {
+      "type": "project",
+      "path": "../InMemoryCaching.ServiceContracts/InMemoryCaching.ServiceContracts.csproj",
+      "msbuildProject": "../InMemoryCaching.ServiceContracts/InMemoryCaching.ServiceContracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "InMemoryCaching.RepositoryContracts >= 1.0.0",
+      "InMemoryCaching.ServiceContracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Services\\InMemoryCaching.Services.csproj",
+      "projectName": "InMemoryCaching.Services",
+      "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Services\\InMemoryCaching.Services.csproj",
+      "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
+      "outputPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.RepositoryContracts\\InMemoryCaching.RepositoryContracts.csproj": {
+              "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.RepositoryContracts\\InMemoryCaching.RepositoryContracts.csproj"
+            },
+            "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.ServiceContracts\\InMemoryCaching.ServiceContracts.csproj": {
+              "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.ServiceContracts\\InMemoryCaching.ServiceContracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InMemoryCaching.ServiceContracts/1.0.0": {
+        "dependencies": {
+          "InMemoryCaching.Models": "1.0.0"
+        },
+        "runtime": {
+          "InMemoryCaching.ServiceContracts.dll": {}
+        }
+      },
+      "InMemoryCaching.Models/1.0.0": {
+        "runtime": {
+          "InMemoryCaching.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InMemoryCaching.ServiceContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InMemoryCaching.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

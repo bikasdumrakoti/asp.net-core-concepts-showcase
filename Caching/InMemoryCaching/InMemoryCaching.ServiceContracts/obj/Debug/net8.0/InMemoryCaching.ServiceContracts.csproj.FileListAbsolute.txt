@@ -1,0 +1,15 @@
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\bin\Debug\net8.0\InMemoryCaching.ServiceContracts.deps.json
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\bin\Debug\net8.0\InMemoryCaching.ServiceContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\bin\Debug\net8.0\InMemoryCaching.ServiceContracts.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\bin\Debug\net8.0\InMemoryCaching.Models.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\bin\Debug\net8.0\InMemoryCaching.Models.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.csproj.AssemblyReference.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.AssemblyInfoInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.AssemblyInfo.cs
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.csproj.CoreCompileInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemory.2B35CD02.Up2Date
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\refint\InMemoryCaching.ServiceContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\ref\InMemoryCaching.ServiceContracts.dll
