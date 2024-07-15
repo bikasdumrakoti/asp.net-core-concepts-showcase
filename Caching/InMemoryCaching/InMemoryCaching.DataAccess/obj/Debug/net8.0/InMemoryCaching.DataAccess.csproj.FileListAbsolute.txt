@@ -17,3 +17,4 @@ D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.DataAc
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.DataAccess\obj\Debug\net8.0\ref\InMemoryCaching.DataAccess.dll
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.DataAccess\bin\Debug\net8.0\InMemoryCaching.RepositoryContracts.dll
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.DataAccess\bin\Debug\net8.0\InMemoryCaching.RepositoryContracts.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.DataAccess\obj\Debug\net8.0\InMemoryCaching.DataAccess.sourcelink.json

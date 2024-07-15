@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj",
-      "projectName": "InMemoryCaching.Utility",
-      "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj",
+      "projectUniqueName": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj",
+      "projectName": "InMemoryCaching.Utilities",
+      "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj",
       "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
       "outputPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\obj\\",
       "projectStyle": "PackageReference",

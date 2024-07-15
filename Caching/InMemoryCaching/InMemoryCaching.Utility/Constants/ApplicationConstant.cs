@@ -1,4 +1,4 @@
-﻿namespace InMemoryCaching.Utility.Constants
+﻿namespace InMemoryCaching.Utilities.Constants
 {
     public static class ApplicationConstant
     {

@@ -1,0 +1,12 @@
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\bin\Debug\net8.0\InMemoryCaching.Utilities.deps.json
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\bin\Debug\net8.0\InMemoryCaching.Utilities.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\bin\Debug\net8.0\InMemoryCaching.Utilities.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\InMemoryCaching.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\InMemoryCaching.Utilities.AssemblyInfoInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\InMemoryCaching.Utilities.AssemblyInfo.cs
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\InMemoryCaching.Utilities.csproj.CoreCompileInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\InMemoryCaching.Utilities.sourcelink.json
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\InMemoryCaching.Utilities.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\refint\InMemoryCaching.Utilities.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\InMemoryCaching.Utilities.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Utility\obj\Debug\net8.0\ref\InMemoryCaching.Utilities.dll

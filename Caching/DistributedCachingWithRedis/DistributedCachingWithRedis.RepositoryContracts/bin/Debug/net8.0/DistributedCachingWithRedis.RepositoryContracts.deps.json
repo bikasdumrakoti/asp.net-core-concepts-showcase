@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DistributedCachingWithRedis.RepositoryContracts/1.0.0": {
+        "dependencies": {
+          "DistributedCachingWithRedis.Models": "1.0.0"
+        },
+        "runtime": {
+          "DistributedCachingWithRedis.RepositoryContracts.dll": {}
+        }
+      },
+      "DistributedCachingWithRedis.Models/1.0.0": {
+        "runtime": {
+          "DistributedCachingWithRedis.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DistributedCachingWithRedis.RepositoryContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DistributedCachingWithRedis.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\bin\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.deps.json
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\bin\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\bin\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.pdb
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\bin\Debug\net8.0\DistributedCachingWithRedis.Models.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\bin\Debug\net8.0\DistributedCachingWithRedis.Models.pdb
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.csproj.AssemblyReference.cache
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.AssemblyInfoInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.AssemblyInfo.cs
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.csproj.CoreCompileInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.sourcelink.json
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\Distribu.71E5618B.Up2Date
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\refint\DistributedCachingWithRedis.ServiceContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\DistributedCachingWithRedis.ServiceContracts.pdb
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.ServiceContracts\obj\Debug\net8.0\ref\DistributedCachingWithRedis.ServiceContracts.dll

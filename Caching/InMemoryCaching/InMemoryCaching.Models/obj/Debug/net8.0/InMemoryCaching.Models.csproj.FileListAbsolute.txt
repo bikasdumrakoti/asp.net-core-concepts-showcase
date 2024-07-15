@@ -9,3 +9,4 @@ D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Models
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Models\obj\Debug\net8.0\refint\InMemoryCaching.Models.dll
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Models\obj\Debug\net8.0\InMemoryCaching.Models.pdb
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Models\obj\Debug\net8.0\ref\InMemoryCaching.Models.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Models\obj\Debug\net8.0\InMemoryCaching.Models.sourcelink.json

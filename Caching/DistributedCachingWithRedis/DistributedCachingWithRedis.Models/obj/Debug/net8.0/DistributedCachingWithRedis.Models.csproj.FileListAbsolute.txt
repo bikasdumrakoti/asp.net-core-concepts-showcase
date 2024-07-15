@@ -1,0 +1,12 @@
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\bin\Debug\net8.0\DistributedCachingWithRedis.Models.deps.json
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\bin\Debug\net8.0\DistributedCachingWithRedis.Models.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\bin\Debug\net8.0\DistributedCachingWithRedis.Models.pdb
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\DistributedCachingWithRedis.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\DistributedCachingWithRedis.Models.AssemblyInfoInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\DistributedCachingWithRedis.Models.AssemblyInfo.cs
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\DistributedCachingWithRedis.Models.csproj.CoreCompileInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\DistributedCachingWithRedis.Models.sourcelink.json
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\DistributedCachingWithRedis.Models.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\refint\DistributedCachingWithRedis.Models.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\DistributedCachingWithRedis.Models.pdb
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Models\obj\Debug\net8.0\ref\DistributedCachingWithRedis.Models.dll

@@ -146,5 +146,6 @@ D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bi
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bin\Debug\net8.0\InMemoryCaching.Services.dll
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bin\Debug\net8.0\InMemoryCaching.ServiceContracts.pdb
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bin\Debug\net8.0\InMemoryCaching.Services.pdb
-D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bin\Debug\net8.0\InMemoryCaching.Utility.dll
-D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bin\Debug\net8.0\InMemoryCaching.Utility.pdb
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\obj\Debug\net8.0\InMemoryCaching.Web.sourcelink.json
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bin\Debug\net8.0\InMemoryCaching.Utilities.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Web\bin\Debug\net8.0\InMemoryCaching.Utilities.pdb

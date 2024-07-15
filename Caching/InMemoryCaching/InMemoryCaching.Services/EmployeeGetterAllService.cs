@@ -15,7 +15,7 @@ namespace InMemoryCaching.Services
             _unitOfWork = unitOfWork;
         }
 
-        public async Task<IEnumerable<EmployeeResponse>> GetAllEmployees()
+        public async Task<IEnumerable<EmployeeResponseDTO>> GetAllEmployees()
         {
             IEnumerable<Employee> employees = await _unitOfWork.Employee.GetAllAsync();
             return employees.Select(x => x.ToEmployeeResponse());

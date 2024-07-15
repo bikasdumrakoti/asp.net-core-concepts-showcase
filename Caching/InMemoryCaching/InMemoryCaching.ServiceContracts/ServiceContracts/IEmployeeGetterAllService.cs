@@ -4,6 +4,6 @@ namespace InMemoryCaching.ServiceContracts.ServiceContracts
 {
     public interface IEmployeeGetterAllService
     {
-        Task<IEnumerable<EmployeeResponse>> GetAllEmployees();
+        Task<IEnumerable<EmployeeResponseDTO>> GetAllEmployees();
     }
 }

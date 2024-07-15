@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InMemoryCaching.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddcf696dd94a5c9538de1f1053d230d37e365293")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1ec1db796965aea8a75d0f5fed4d4b51e72304")]
 [assembly: System.Reflection.AssemblyProductAttribute("InMemoryCaching.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InMemoryCaching.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

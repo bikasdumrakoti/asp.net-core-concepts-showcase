@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DistributedCachingWithRedis.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DistributedCachingWithRedis.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DistributedCachingWithRedis.Models.dll": {}
+        }
+      },
+      "DistributedCachingWithRedis.RepositoryContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DistributedCachingWithRedis.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DistributedCachingWithRedis.RepositoryContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DistributedCachingWithRedis.RepositoryContracts.dll": {}
+        }
+      },
+      "DistributedCachingWithRedis.ServiceContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DistributedCachingWithRedis.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DistributedCachingWithRedis.ServiceContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DistributedCachingWithRedis.ServiceContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DistributedCachingWithRedis.Models/1.0.0": {
+      "type": "project",
+      "path": "../DistributedCachingWithRedis.Models/DistributedCachingWithRedis.Models.csproj",
+      "msbuildProject": "../DistributedCachingWithRedis.Models/DistributedCachingWithRedis.Models.csproj"
+    },
+    "DistributedCachingWithRedis.RepositoryContracts/1.0.0": {
+      "type": "project",
+      "path": "../DistributedCachingWithRedis.RepositoryContracts/DistributedCachingWithRedis.RepositoryContracts.csproj",
+      "msbuildProject": "../DistributedCachingWithRedis.RepositoryContracts/DistributedCachingWithRedis.RepositoryContracts.csproj"
+    },
+    "DistributedCachingWithRedis.ServiceContracts/1.0.0": {
+      "type": "project",
+      "path": "../DistributedCachingWithRedis.ServiceContracts/DistributedCachingWithRedis.ServiceContracts.csproj",
+      "msbuildProject": "../DistributedCachingWithRedis.ServiceContracts/DistributedCachingWithRedis.ServiceContracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DistributedCachingWithRedis.Models >= 1.0.0",
+      "DistributedCachingWithRedis.RepositoryContracts >= 1.0.0",
+      "DistributedCachingWithRedis.ServiceContracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.Services\\DistributedCachingWithRedis.Services.csproj",
+      "projectName": "DistributedCachingWithRedis.Services",
+      "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.Services\\DistributedCachingWithRedis.Services.csproj",
+      "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
+      "outputPath": "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.Models\\DistributedCachingWithRedis.Models.csproj": {
+              "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.Models\\DistributedCachingWithRedis.Models.csproj"
+            },
+            "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.RepositoryContracts\\DistributedCachingWithRedis.RepositoryContracts.csproj": {
+              "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.RepositoryContracts\\DistributedCachingWithRedis.RepositoryContracts.csproj"
+            },
+            "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.ServiceContracts\\DistributedCachingWithRedis.ServiceContracts.csproj": {
+              "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\DistributedCachingWithRedis\\DistributedCachingWithRedis.ServiceContracts\\DistributedCachingWithRedis.ServiceContracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

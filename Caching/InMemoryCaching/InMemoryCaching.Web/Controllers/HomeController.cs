@@ -1,6 +1,6 @@
 using InMemoryCaching.ServiceContracts.DTOs;
 using InMemoryCaching.ServiceContracts.ServiceContracts;
-using InMemoryCaching.Utility.Constants;
+using InMemoryCaching.Utilities.Constants;
 using InMemoryCaching.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
@@ -34,21 +34,21 @@ namespace InMemoryCaching.Web.Controllers
             {
                 _logger.LogInformation("Employees not found in cache. Loading from database ...");
 
-                IEnumerable<EmployeeResponse> employeeResponses = await _employeeGetterAllService.GetAllEmployees();
+                IEnumerable<EmployeeResponseDTO> employeeResponseDTOs = await _employeeGetterAllService.GetAllEmployees();
 
                 employeeViewModels = new();
 
-                foreach (EmployeeResponse employeeResponse in employeeResponses)
+                foreach (EmployeeResponseDTO employeeResponseDTO in employeeResponseDTOs)
                 {
                     employeeViewModels.Add(new()
                     {
-                        Id = employeeResponse.Id,
-                        Name = employeeResponse.Name
+                        Id = employeeResponseDTO.Id,
+                        Name = employeeResponseDTO.Name
                     });
                 }
 
                 MemoryCacheEntryOptions memoryCacheEntryOptions = new MemoryCacheEntryOptions()
-                    .SetSlidingExpiration(TimeSpan.FromSeconds(45))
+                    .SetSlidingExpiration(TimeSpan.FromSeconds(30))
                     .SetAbsoluteExpiration(TimeSpan.FromSeconds(60))
                     .SetPriority(CacheItemPriority.Normal);
 

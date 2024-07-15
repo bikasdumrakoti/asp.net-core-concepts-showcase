@@ -1,0 +1,12 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace DistributedCachingWithRedis.Models
+{
+    public class Employee
+    {
+        [Key]
+        public int Id { get; set; }
+
+        public string? Name { get; set; }
+    }
+}

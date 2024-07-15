@@ -9,13 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCaching.Models", "I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCaching.DataAccess", "InMemoryCaching.DataAccess\InMemoryCaching.DataAccess.csproj", "{6A710C3F-D394-4169-8EC3-6C143FE9500D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCaching.RepositoryContracts", "InMemoryCaching.RepositoryContracts\InMemoryCaching.RepositoryContracts.csproj", "{BFC31870-A1E3-4FB8-AB27-B6360E1ED9EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCaching.RepositoryContracts", "InMemoryCaching.RepositoryContracts\InMemoryCaching.RepositoryContracts.csproj", "{BFC31870-A1E3-4FB8-AB27-B6360E1ED9EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCaching.ServiceContracts", "InMemoryCaching.ServiceContracts\InMemoryCaching.ServiceContracts.csproj", "{03B56B3A-6526-4865-9FE6-4DE47D58C8EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCaching.ServiceContracts", "InMemoryCaching.ServiceContracts\InMemoryCaching.ServiceContracts.csproj", "{03B56B3A-6526-4865-9FE6-4DE47D58C8EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCaching.Services", "InMemoryCaching.Services\InMemoryCaching.Services.csproj", "{6B312F14-458B-4404-91E3-FF1C0D226FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCaching.Services", "InMemoryCaching.Services\InMemoryCaching.Services.csproj", "{6B312F14-458B-4404-91E3-FF1C0D226FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCaching.Utility", "InMemoryCaching.Utility\InMemoryCaching.Utility.csproj", "{FA062E27-22E8-4F9C-A0B9-C6457F7650DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCaching.Utilities", "InMemoryCaching.Utility\InMemoryCaching.Utilities.csproj", "{FA062E27-22E8-4F9C-A0B9-C6457F7650DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

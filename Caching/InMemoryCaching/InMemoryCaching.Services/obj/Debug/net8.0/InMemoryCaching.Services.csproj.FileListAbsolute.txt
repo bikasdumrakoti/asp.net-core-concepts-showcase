@@ -17,3 +17,4 @@ D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Servic
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Services\obj\Debug\net8.0\refint\InMemoryCaching.Services.dll
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Services\obj\Debug\net8.0\InMemoryCaching.Services.pdb
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Services\obj\Debug\net8.0\ref\InMemoryCaching.Services.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Services\obj\Debug\net8.0\InMemoryCaching.Services.sourcelink.json

@@ -13,3 +13,4 @@ D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Reposi
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\refint\InMemoryCaching.RepositoryContracts.dll
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.pdb
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\ref\InMemoryCaching.RepositoryContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.RepositoryContracts\obj\Debug\net8.0\InMemoryCaching.RepositoryContracts.sourcelink.json

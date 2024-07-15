@@ -5,9 +5,9 @@ namespace InMemoryCaching.ServiceContracts.Extensions
 {
     public static class EmployeeExtension
     {
-        public static EmployeeResponse ToEmployeeResponse(this Employee employee)
+        public static EmployeeResponseDTO ToEmployeeResponse(this Employee employee)
         {
-            return new EmployeeResponse()
+            return new EmployeeResponseDTO()
             {
                 Id = employee.Id,
                 Name = employee.Name

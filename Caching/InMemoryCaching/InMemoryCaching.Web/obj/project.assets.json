@@ -1569,14 +1569,14 @@
           "bin/placeholder/InMemoryCaching.Services.dll": {}
         }
       },
-      "InMemoryCaching.Utility/1.0.0": {
+      "InMemoryCaching.Utilities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/InMemoryCaching.Utility.dll": {}
+          "bin/placeholder/InMemoryCaching.Utilities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/InMemoryCaching.Utility.dll": {}
+          "bin/placeholder/InMemoryCaching.Utilities.dll": {}
         }
       }
     }
@@ -4198,10 +4198,10 @@
       "path": "../InMemoryCaching.Services/InMemoryCaching.Services.csproj",
       "msbuildProject": "../InMemoryCaching.Services/InMemoryCaching.Services.csproj"
     },
-    "InMemoryCaching.Utility/1.0.0": {
+    "InMemoryCaching.Utilities/1.0.0": {
       "type": "project",
-      "path": "../InMemoryCaching.Utility/InMemoryCaching.Utility.csproj",
-      "msbuildProject": "../InMemoryCaching.Utility/InMemoryCaching.Utility.csproj"
+      "path": "../InMemoryCaching.Utility/InMemoryCaching.Utilities.csproj",
+      "msbuildProject": "../InMemoryCaching.Utility/InMemoryCaching.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4210,7 +4210,7 @@
       "InMemoryCaching.RepositoryContracts >= 1.0.0",
       "InMemoryCaching.ServiceContracts >= 1.0.0",
       "InMemoryCaching.Services >= 1.0.0",
-      "InMemoryCaching.Utility >= 1.0.0",
+      "InMemoryCaching.Utilities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.7"
@@ -4256,8 +4256,8 @@
             "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Services\\InMemoryCaching.Services.csproj": {
               "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Services\\InMemoryCaching.Services.csproj"
             },
-            "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj": {
-              "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj"
+            "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj": {
+              "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj"
             }
           }
         }

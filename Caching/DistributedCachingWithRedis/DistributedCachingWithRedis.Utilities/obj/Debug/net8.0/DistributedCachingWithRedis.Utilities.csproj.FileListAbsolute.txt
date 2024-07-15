@@ -1,0 +1,12 @@
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\bin\Debug\net8.0\DistributedCachingWithRedis.Utilities.deps.json
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\bin\Debug\net8.0\DistributedCachingWithRedis.Utilities.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\bin\Debug\net8.0\DistributedCachingWithRedis.Utilities.pdb
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\DistributedCachingWithRedis.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\DistributedCachingWithRedis.Utilities.AssemblyInfoInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\DistributedCachingWithRedis.Utilities.AssemblyInfo.cs
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\DistributedCachingWithRedis.Utilities.csproj.CoreCompileInputs.cache
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\DistributedCachingWithRedis.Utilities.sourcelink.json
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\DistributedCachingWithRedis.Utilities.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\refint\DistributedCachingWithRedis.Utilities.dll
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\DistributedCachingWithRedis.Utilities.pdb
+D:\asp.net-core-concepts-showcase\Caching\DistributedCachingWithRedis\DistributedCachingWithRedis.Utilities\obj\Debug\net8.0\ref\DistributedCachingWithRedis.Utilities.dll

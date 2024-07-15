@@ -347,12 +347,12 @@
         }
       }
     },
-    "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj": {
+    "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj",
-        "projectName": "InMemoryCaching.Utility",
-        "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj",
+        "projectUniqueName": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj",
+        "projectName": "InMemoryCaching.Utilities",
+        "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj",
         "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
         "outputPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\obj\\",
         "projectStyle": "PackageReference",
@@ -445,8 +445,8 @@
               "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Services\\InMemoryCaching.Services.csproj": {
                 "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Services\\InMemoryCaching.Services.csproj"
               },
-              "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj": {
-                "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utility.csproj"
+              "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj": {
+                "projectPath": "D:\\asp.net-core-concepts-showcase\\Caching\\InMemoryCaching\\InMemoryCaching.Utility\\InMemoryCaching.Utilities.csproj"
               }
             }
           }

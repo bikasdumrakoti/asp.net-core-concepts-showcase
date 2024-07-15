@@ -13,3 +13,4 @@ D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.Servic
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\refint\InMemoryCaching.ServiceContracts.dll
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.pdb
 D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\ref\InMemoryCaching.ServiceContracts.dll
+D:\asp.net-core-concepts-showcase\Caching\InMemoryCaching\InMemoryCaching.ServiceContracts\obj\Debug\net8.0\InMemoryCaching.ServiceContracts.sourcelink.json

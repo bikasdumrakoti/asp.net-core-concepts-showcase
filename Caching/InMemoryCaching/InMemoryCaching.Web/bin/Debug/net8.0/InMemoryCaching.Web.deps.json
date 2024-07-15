@@ -12,7 +12,7 @@
           "InMemoryCaching.RepositoryContracts": "1.0.0",
           "InMemoryCaching.ServiceContracts": "1.0.0",
           "InMemoryCaching.Services": "1.0.0",
-          "InMemoryCaching.Utility": "1.0.0",
+          "InMemoryCaching.Utilities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.7"
@@ -909,9 +909,9 @@
           "InMemoryCaching.Services.dll": {}
         }
       },
-      "InMemoryCaching.Utility/1.0.0": {
+      "InMemoryCaching.Utilities/1.0.0": {
         "runtime": {
-          "InMemoryCaching.Utility.dll": {}
+          "InMemoryCaching.Utilities.dll": {}
         }
       }
     }
@@ -1479,7 +1479,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "InMemoryCaching.Utility/1.0.0": {
+    "InMemoryCaching.Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
