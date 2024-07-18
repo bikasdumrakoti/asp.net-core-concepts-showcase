@@ -1,0 +1,23 @@
+﻿@model IndexViewModel
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<form asp-controller="Home" asp-action="Index" method="post">
+    <div class="text-center">
+        <p>Message request #</p>
+        <label asp-for="TotalMessage" class="form-label h5">How many messages do you want to send in the above format ?</label>
+        <input asp-for="TotalMessage" />
+        <span asp-validation-for="TotalMessage" class="text-danger"></span>
+        <div>
+            <button type="submit" class="btn btn-primary mt-3">Submit</button>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
