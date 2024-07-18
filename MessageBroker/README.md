@@ -1,0 +1,4 @@
+- The MessageBrokerWithRabbitMQ solution have three projects.
+- The sender application is a ASP.NET Core MVC project.
+- The two receiver applications are Console projects.
+- RabbitMQ, an open source software that allows to send and receive messages between different applications and services, needs to be up and running either in the Docker container or any other platform that can contain the RabbitMQ server.
