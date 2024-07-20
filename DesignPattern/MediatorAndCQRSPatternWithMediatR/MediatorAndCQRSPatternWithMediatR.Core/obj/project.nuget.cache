@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJ5JguzWETc=",
+  "success": true,
+  "projectFilePath": "D:\\asp.net-core-concepts-showcase\\DesignPattern\\MediatorAndCQRSPatternWithMediatR\\MediatorAndCQRSPatternWithMediatR.Core\\MediatorAndCQRSPatternWithMediatR.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

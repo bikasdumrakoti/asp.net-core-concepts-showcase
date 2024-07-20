@@ -1,0 +1,25 @@
+﻿@model IEnumerable<EmployeeViewModel>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <table class="table table-bordered mt-2">
+        <thead class="table-light">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (EmployeeViewModel employeeViewModel in Model)
+            {
+                <tr>
+                    <td>@employeeViewModel.Id</td>
+                    <td>@employeeViewModel.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

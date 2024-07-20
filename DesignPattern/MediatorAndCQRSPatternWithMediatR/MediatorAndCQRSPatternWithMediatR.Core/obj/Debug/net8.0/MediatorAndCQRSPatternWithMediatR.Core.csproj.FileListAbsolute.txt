@@ -1,0 +1,13 @@
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\bin\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.deps.json
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\bin\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.dll
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\bin\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.pdb
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.AssemblyInfoInputs.cache
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.AssemblyInfo.cs
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.csproj.CoreCompileInputs.cache
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.sourcelink.json
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.dll
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\refint\MediatorAndCQRSPatternWithMediatR.Core.dll
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.pdb
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\ref\MediatorAndCQRSPatternWithMediatR.Core.dll
+D:\asp.net-core-concepts-showcase\DesignPattern\MediatorAndCQRSPatternWithMediatR\MediatorAndCQRSPatternWithMediatR.Core\obj\Debug\net8.0\MediatorAndCQRSPatternWithMediatR.Core.csproj.AssemblyReference.cache
